@@ -1,4 +1,4 @@
-#create the encryption funtion
+#create the encryption funtion 
 def encrypt(message,shift) :
     encrypted_message = ""
     for letter in message : 
