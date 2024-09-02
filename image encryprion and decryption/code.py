@@ -1,3 +1,5 @@
+#Click on the 3 points next to the title to see the description
+
 from PIL import Image
 import numpy as np
 
