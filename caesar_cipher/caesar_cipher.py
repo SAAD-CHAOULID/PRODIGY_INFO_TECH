@@ -1,3 +1,7 @@
+##Click on the 3 points next to the file name to see the description
+
+
+
 #create the encryption funtion 
 def encrypt(message,shift) :
     encrypted_message = ""
