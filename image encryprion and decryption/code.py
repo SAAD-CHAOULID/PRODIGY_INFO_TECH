@@ -1,4 +1,4 @@
-#Click on the 3 points next to the file name to see the description
+#Click on the 3 points next to the file name to see the description 
 
 from PIL import Image
 import numpy as np
