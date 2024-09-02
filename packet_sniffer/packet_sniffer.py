@@ -1,3 +1,7 @@
+#Click on the 3 points next to the file name to see the description
+#  Note : this script works only on linux machines
+
+
 import socket
 import struct
 import textwrap
